@@ -17,7 +17,7 @@ project_root/
 └───bmi/
 │   └───front/
 │   │   └───front/
-│   │   │   │   M47396.jpg
+│   │   │   │   M47396
 │   │   │   │   ...
 │   │   label.csv
 │   │   model.tflite
